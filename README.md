@@ -1,11 +1,12 @@
 # Análisis macroeconómico global en 2017.
-PRA 2 - Limpieza y validación de los datos
+**PRA 2 - Limpieza y validación de los datos**
 
-Componentes:
+**Componentes:**
 
-Carlos Lavado Mahia
-Dionisio González Jiménez
-Descripción general:
+- Carlos Lavado Mahia
+- Dionisio González Jiménez
+
+**Descripción general:**
 
 Limpieza de datos en un dataset elegido "country_profile_data.csv" que nos muestra datos macroeconómicos tanto por país como por región con algunos indicadores destacados (GDP, GDP per cápita, agriculture, industry, services, employment, import, export, balance...)
 
